@@ -1,0 +1,16 @@
+{
+  "name": "shri-2018-2-task-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV='development' gulp watch:all"
+  },
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "webpack": "^4.16.5",
+    "webpack-stream": "^5.1.0"
+  },
+  "dependencies": {}
+}
